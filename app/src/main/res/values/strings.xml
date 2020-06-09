@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">Bobble Emoji Prediction</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="enter_your_sentence">Enter your sentence</string>
+    <string name="predict">Predict</string>
+</resources>
